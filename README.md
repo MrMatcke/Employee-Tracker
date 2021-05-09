@@ -1,3 +1,6 @@
+
+https://user-images.githubusercontent.com/73261792/117559273-bec26480-b038-11eb-9204-c58e9318c095.mov
+
 # Employee-Tracker
 Develop a CMS
 Homework assignment to develop a CMS Employee tracker. 
